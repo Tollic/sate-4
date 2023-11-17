@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(0, 103, 117);
+}
+.go_1{
+    position: absolute;
+    top: 28%;
+
+    width: 152px;
+    height: 54px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 54px;
+
+    color: #FFFFFF;
+
+    z-index: 3;
+
+    outline: none;
+    transition: .1s;
+}
+
+.go{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 54px;
+    
+    width: 210px;
+    height: 60px;
+    border: none;
+    border-radius: 10px;
+    background-color:  #36d0ff;
+    color: #fff;
+
+    margin-left: 70px;
+    margin-top: 10px;
+}
